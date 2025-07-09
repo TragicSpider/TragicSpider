@@ -1,8 +1,16 @@
-- 👋 Hi, I’m @TragicSpider
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning object oriented programming and web development
-- 💞️ I’m currently studying programming
-- 📫 How to reach me JonBergeron65@gmail.com
+---
+
+## 🎓 About Me
+
+Hi, I'm Jon — a Computer Science student with an emphasis in Game Development at **Grand Canyon University**. I enjoy building things that mix **software**, **hardware**, and **creativity** 
+
+**Languages I work with:**
+- 💻 Java
+- 🐍 Python
+- ⚙️ C++
+- 🎮 GDScript (Godot Engine)
+
+---
 
 <!---
 TragicSpider/TragicSpider is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
